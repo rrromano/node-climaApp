@@ -1,4 +1,4 @@
-# Node Console - Weather App
+# Node - Weather Console App
 
 _This is an interactive nodeJs console application project for finding cities and getting information about the city, such as latitude, longitude, and weather._
 
