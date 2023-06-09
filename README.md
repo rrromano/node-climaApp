@@ -2,11 +2,11 @@
 
 _This is an interactive nodeJs console application project for finding cities and getting information about the city, such as latitude, longitude, and weather._
 
-## Starting 🚀
+## Starting ▶️
 
 The following instructions will allow you to get a working copy of the project on your local machine for development and testing purposes.
 
-### Installation 🔧
+### Installation ⚙️
 
 - Run `npm install` to install all dependencies.
 - Run `npm start` to run the app locally.
